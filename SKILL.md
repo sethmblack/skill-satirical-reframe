@@ -4,7 +4,8 @@ description: Transform dry, serious, or preachy content into humorous observatio
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4904
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
@@ -96,7 +97,7 @@ Where is the hypocrisy, foolishness, or contradiction? What do people SAY versus
 Which technique fits best?
 - Innocent observation: for institutional foolishness
 - Deadpan comparison: for abstract concepts
-- Inversion: 1.0.0for claims of virtue
+- Inversion: for claims of virtue
 - Hypothetical telling: for complex situations
 
 ### Step 4: Write the Punch
